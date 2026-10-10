@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/drizzle-team/minipg",
+  "@type": "gh:Repository",
+  "gh:name": "minipg",
+  "gh:owner": "drizzle-team",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/drizzle-team/minipg/commit/4e37c32d01114751d2dd69bf0d278448d01e318b",
+      "git:hexsha": "4e37c32d01114751d2dd69bf0d278448d01e318b",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
